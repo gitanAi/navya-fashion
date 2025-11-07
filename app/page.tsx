@@ -60,7 +60,7 @@ export default function HomePage() {
               <div className="grid grid-cols-3 gap-4 pt-8 border-t border-border">
                 <div>
                   <p className="text-2xl font-serif font-bold text-primary">
-                    20+
+                    5+
                   </p>
                   <p className="text-sm text-muted-foreground">
                     Years Experience
